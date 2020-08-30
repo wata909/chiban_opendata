@@ -31,9 +31,6 @@
 平成28年3月14日以降の分筆合筆等の加除はしていませんので、青森地方法務局弘前支局または弘前市農村整備課地籍調査係にご確認ください。  
 pdfファイル以外はzip形式で圧縮されたsim形式データです
 
-
-https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/johosuisinka/open_data/chibansankouzu/1585623681310.html
-
 ## 静岡県
 ### 静岡市
 
@@ -54,5 +51,4 @@ https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/johosuisinka/op
 #### 寝屋川市
 
 [寝屋川市オープンデータ（地番参考図）](https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/johosuisinka/open_data/chibansankouzu/1585623681310.html)
-
 
