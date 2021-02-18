@@ -48,6 +48,11 @@ pdfファイル以外はzip形式で圧縮されたsim形式データです
 
 [28217_兵庫県_川西市_地番図](https://www.geospatial.jp/ckan/dataset/28217-020)
 
+###　西宮市
+
+[にしのみやしWebGIS_地番参考図](https://webgis.nishi.or.jp/index.php#map_gname_15)
+
+## 大阪府
 #### 寝屋川市
 
 [寝屋川市オープンデータ（地番参考図）](https://www.city.neyagawa.osaka.jp/organization_list/keieikikaku/johosuisinka/open_data/chibansankouzu/1585623681310.html)
